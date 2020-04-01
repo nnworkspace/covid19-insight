@@ -12,6 +12,9 @@ This project is developed with Python Jupyter notebooks. Required libraries: num
 ### Covid-19 data
 Johns Hopkins University's repository: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
+### Population data
+United Nations: https://population.un.org/wpp/Download/Standard/CSV/
+
 ### GDP data
 World Bank: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
