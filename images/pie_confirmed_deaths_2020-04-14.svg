@@ -122,7 +122,7 @@ z
 " style="fill:#a1d8bd;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_13">
-    <path clip-path="url(#p0bdf4ebe5c)" d="M 308.03794 334.652 
+    <path clip-path="url(#p3faddbad79)" d="M 308.03794 334.652 
 C 337.250592 334.652 365.270702 323.04569 385.927166 302.389226 
 C 406.583631 281.732762 418.18994 253.712652 418.18994 224.5 
 C 418.18994 195.287348 406.583631 167.267238 385.927166 146.610774 
@@ -135,7 +135,7 @@ z
 " style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_14">
-    <path clip-path="url(#p0bdf4ebe5c)" d="M 308.03794 334.652 
+    <path clip-path="url(#p3faddbad79)" d="M 308.03794 334.652 
 C 337.250592 334.652 365.270702 323.04569 385.927166 302.389226 
 C 406.583631 281.732762 418.18994 253.712652 418.18994 224.5 
 C 418.18994 195.287348 406.583631 167.267238 385.927166 146.610774 
@@ -1508,7 +1508,7 @@ z
 " style="fill:#a1d8bd;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_26">
-    <path clip-path="url(#pe4c6d98047)" d="M 843.96206 334.652 
+    <path clip-path="url(#pacd8fe3bc5)" d="M 843.96206 334.652 
 C 873.174712 334.652 901.194822 323.04569 921.851286 302.389226 
 C 942.50775 281.732762 954.11406 253.712652 954.11406 224.5 
 C 954.11406 195.287348 942.50775 167.267238 921.851286 146.610774 
@@ -1521,7 +1521,7 @@ z
 " style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_27">
-    <path clip-path="url(#pe4c6d98047)" d="M 843.96206 334.652 
+    <path clip-path="url(#pacd8fe3bc5)" d="M 843.96206 334.652 
 C 873.174712 334.652 901.194822 323.04569 921.851286 302.389226 
 C 942.50775 281.732762 954.11406 253.712652 954.11406 224.5 
 C 954.11406 195.287348 942.50775 167.267238 921.851286 146.610774 
@@ -1841,10 +1841,10 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p0bdf4ebe5c">
+  <clipPath id="p3faddbad79">
    <rect height="393.4" width="393.4" x="111.33794" y="27.8"/>
   </clipPath>
-  <clipPath id="pe4c6d98047">
+  <clipPath id="pacd8fe3bc5">
    <rect height="393.4" width="393.4" x="647.26206" y="27.8"/>
   </clipPath>
  </defs>
